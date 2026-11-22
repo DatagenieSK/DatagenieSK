@@ -56,11 +56,11 @@ I build practical, scalable software—ranging from full-stack web platforms to 
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DatagenieSK&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Sk Alauddin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DatagenieSK&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Sk Alauddin's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatagenieSK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatagenieSK&theme=dark&hide_border=false&layout=compact" alt="Most Used Languages" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=DatagenieSK&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=DatagenieSK&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
@@ -69,5 +69,5 @@ I build practical, scalable software—ranging from full-stack web platforms to 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
   <br/><br/>
-  <img src="https://visitcount.itsvg.in/api?id=DatagenieSK&icon=0&color=0" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DatagenieSK&color=38BDF8&style=for-the-badge" alt="Profile Views" />
 </div>
